@@ -7,6 +7,8 @@
 **Program:** Higher National Diploma in Software Engineering  
 **School:** School of Computing and Engineering, National Institute of Business Management, Colombo-7  
 
+<img width="1919" height="854" alt="image" src="https://github.com/user-attachments/assets/d78e6591-db8a-4fed-997a-d057acc7c650" />
+
 ---
 
 ## Introduction
