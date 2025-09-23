@@ -7,7 +7,12 @@
 **Program:** Higher National Diploma in Software Engineering  
 **School:** School of Computing and Engineering, National Institute of Business Management, Colombo-7  
 
-<img width="1919" height="854" alt="image" src="https://github.com/user-attachments/assets/d78e6591-db8a-4fed-997a-d057acc7c650" />
+<a href="https://github.com/AmjadAzward/Complaint-chain-tool-using-datastructures/blob/main/Demonstration/PDS%20-%20Demonstration.mp4" target="_blank">
+  <img width="1919" height="854"
+       alt="PDS Demonstration"
+       src="https://github.com/user-attachments/assets/d78e6591-db8a-4fed-997a-d057acc7c650"
+       style="cursor:pointer;" />
+</a>
 
 ---
 
